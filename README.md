@@ -2,7 +2,7 @@
 
 This is demo code, intended to be compiled with AMIGA Lattice C 3.03, showing how the HAM mode works.
 
-!(Screenshot)[screenshot.png]
+![Screenshot](screenshot.png)
 
 It does the following:
 
